@@ -54,6 +54,10 @@ Add the following in Test class
 
     @AutoConfigureEmbeddedDatabase
 
+## Run the Tests
+
+    mvn -e clean test
+
 ## Source Code Repo
 If you want to try it out, please check this GitHub Repo [Link](https://github.com/susantamon/spring-boot-integration-test-demo) for sample application.
 
